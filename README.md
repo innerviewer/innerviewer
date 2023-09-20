@@ -3,7 +3,7 @@
 ![:innerviewer](https://count.getloli.com/get/@innerviewer?theme=asoul)
 
 ## Projects
-[![SpaRcle Engine](https://img.shields.io/badge/-SpaRcle-Engine-000?&logo=c%2B%2B)](https://github.com/Monika0000/SREngine)
+[![SpaRcle Engine](https://img.shields.io/badge/-SpaRcleEngine-000?&logo=c%2B%2B)](https://github.com/Monika0000/SREngine)
 
 ## Languages
 ![CPP](https://img.shields.io/badge/-C++-000?&logo=c%2B%2B)
