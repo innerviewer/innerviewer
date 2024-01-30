@@ -30,11 +30,11 @@
 - [innerviewer/FluSion](https://github.com/innerviewer/FluSion) - Fluid Simulation based on SpaRcle Engine.
 ### 🔨 My recent Pull Requests
 
+- [Merging dev.](https://github.com/SpaRcle-Studio/SREngine/pull/109) on [SpaRcle-Studio/SREngine](https://github.com/SpaRcle-Studio/SREngine)
 - [Merge tmp/rename_header_include_guard.](https://github.com/SpaRcle-Studio/SREngine/pull/106) on [SpaRcle-Studio/SREngine](https://github.com/SpaRcle-Studio/SREngine)
 - [Merged my-pages branch.](https://github.com/SpaRcle-Studio/SpaRcle-Blog/pull/1) on [SpaRcle-Studio/SpaRcle-Blog](https://github.com/SpaRcle-Studio/SpaRcle-Blog)
 - [(Readme) Changed supported compilers and platforms.](https://github.com/SpaRcle-Studio/SREngine/pull/82) on [SpaRcle-Studio/SREngine](https://github.com/SpaRcle-Studio/SREngine)
 - [(GitHub) Added contributing guidelines.](https://github.com/SpaRcle-Studio/SREngine/pull/72) on [SpaRcle-Studio/SREngine](https://github.com/SpaRcle-Studio/SREngine)
-- [(CI) Merge features/ci-issue-handling.](https://github.com/SpaRcle-Studio/SREngine/pull/60) on [SpaRcle-Studio/SREngine](https://github.com/SpaRcle-Studio/SREngine)
 ### ⭐ Recent Stars
 
 - [tiltedphoques/TiltedEvolution](https://github.com/tiltedphoques/TiltedEvolution) - Skyrim and Fallout 4 mod to play online!
