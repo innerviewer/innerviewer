@@ -20,13 +20,14 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [innerviewer/FluSion-py](https://github.com/innerviewer/FluSion-py) - 
 - [SpaRcle-Studio/SREngine](https://github.com/SpaRcle-Studio/SREngine) - :zap: SpaRcle Engine - cross-platform 2D/3D game engine in C&#43;&#43;.
 - [SpaRcle-Studio/SpaRcle-Blog](https://github.com/SpaRcle-Studio/SpaRcle-Blog) - SpaRcle Studio dev blog website. 
 - [SpaRcle-Studio/EvoVulkan](https://github.com/SpaRcle-Studio/EvoVulkan) - 
 - [SpaRcle-Studio/EvoScript](https://github.com/SpaRcle-Studio/EvoScript) - 
-- [innerviewer/FluSion](https://github.com/innerviewer/FluSion) - Fluid Simulation based on SpaRcle Engine.
 ### 🌱 My latest projects
 
+- [innerviewer/FluSion-py](https://github.com/innerviewer/FluSion-py) - 
 - [innerviewer/FluSion](https://github.com/innerviewer/FluSion) - Fluid Simulation based on SpaRcle Engine.
 ### 🔨 My recent Pull Requests
 
