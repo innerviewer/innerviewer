@@ -28,7 +28,7 @@
 ### 🌱 My latest projects
 
 - [innerviewer/FluSion-py](https://github.com/innerviewer/FluSion-py) - 
-- [innerviewer/FluSion](https://github.com/innerviewer/FluSion) - Fluid Simulation based on SpaRcle Engine.
+- [innerviewer/SR-FluSion](https://github.com/innerviewer/SR-FluSion) - Fluid Simulation script for SpaRcle Engine.
 ### 🔨 My recent Pull Requests
 
 - [Merge features/buttons.](https://github.com/SpaRcle-Studio/SREngine/pull/112) on [SpaRcle-Studio/SREngine](https://github.com/SpaRcle-Studio/SREngine)
