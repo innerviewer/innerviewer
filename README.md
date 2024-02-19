@@ -20,16 +20,13 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [innerviewer/Innertia](https://github.com/innerviewer/Innertia) - My implementation of a blockchain.
+- [SpaRcle-Studio/Innertia](https://github.com/SpaRcle-Studio/Innertia) - Blockchain.
 - [SpaRcle-Studio/SREngine](https://github.com/SpaRcle-Studio/SREngine) - :zap: SpaRcle Engine - cross-platform 2D/3D game engine in C&#43;&#43;.
 - [SpaRcle-Studio/SRCommon](https://github.com/SpaRcle-Studio/SRCommon) - 
 - [SpaRcle-Studio/EvoVulkan](https://github.com/SpaRcle-Studio/EvoVulkan) - 
-- [innerviewer/FluSion](https://github.com/innerviewer/FluSion) - Fluid simulation in Python. :snake:
+- [SpaRcle-Studio/SpaRcle-Blog](https://github.com/SpaRcle-Studio/SpaRcle-Blog) - SpaRcle Studio dev blog website. 
 ### 🌱 My latest projects
 
-- [innerviewer/Innertia](https://github.com/innerviewer/Innertia) - My implementation of a blockchain.
-- [innerviewer/FluSion](https://github.com/innerviewer/FluSion) - Fluid simulation in Python. :snake:
-- [innerviewer/SR-FluSion](https://github.com/innerviewer/SR-FluSion) - Fluid Simulation script for SpaRcle Engine.
 ### 🔨 My recent Pull Requests
 
 - [(Docker) Added the docker file.](https://github.com/SpaRcle-Studio/SREngine/pull/124) on [SpaRcle-Studio/SREngine](https://github.com/SpaRcle-Studio/SREngine)
@@ -39,8 +36,8 @@
 - [Merged my-pages branch.](https://github.com/SpaRcle-Studio/SpaRcle-Blog/pull/1) on [SpaRcle-Studio/SpaRcle-Blog](https://github.com/SpaRcle-Studio/SpaRcle-Blog)
 ### ⭐ Recent Stars
 
+- [SpaRcle-Studio/Innertia](https://github.com/SpaRcle-Studio/Innertia) - Blockchain.
 - [tiltedphoques/TiltedEvolution](https://github.com/tiltedphoques/TiltedEvolution) - Skyrim and Fallout 4 mod to play online!
 - [veltman/clmystery](https://github.com/veltman/clmystery) - A command-line murder mystery
 - [shiftkey/desktop](https://github.com/shiftkey/desktop) - Fork of GitHub Desktop to support various Linux distributions
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C&#43;&#43; (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
