@@ -20,7 +20,7 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [SpaRcle-Studio/Innertia](https://github.com/SpaRcle-Studio/Innertia) - Blockchain.
+- [SpaRcle-Studio/Innertia](https://github.com/SpaRcle-Studio/Innertia) - The Innertia Blockchain.
 - [SpaRcle-Studio/SREngine](https://github.com/SpaRcle-Studio/SREngine) - :zap: SpaRcle Engine - cross-platform 2D/3D game engine in C&#43;&#43;.
 - [SpaRcle-Studio/SRCommon](https://github.com/SpaRcle-Studio/SRCommon) - 
 - [SpaRcle-Studio/EvoVulkan](https://github.com/SpaRcle-Studio/EvoVulkan) - 
@@ -36,7 +36,7 @@
 - [Merged my-pages branch.](https://github.com/SpaRcle-Studio/SpaRcle-Blog/pull/1) on [SpaRcle-Studio/SpaRcle-Blog](https://github.com/SpaRcle-Studio/SpaRcle-Blog)
 ### ⭐ Recent Stars
 
-- [SpaRcle-Studio/Innertia](https://github.com/SpaRcle-Studio/Innertia) - Blockchain.
+- [SpaRcle-Studio/Innertia](https://github.com/SpaRcle-Studio/Innertia) - The Innertia Blockchain.
 - [tiltedphoques/TiltedEvolution](https://github.com/tiltedphoques/TiltedEvolution) - Skyrim and Fallout 4 mod to play online!
 - [veltman/clmystery](https://github.com/veltman/clmystery) - A command-line murder mystery
 - [shiftkey/desktop](https://github.com/shiftkey/desktop) - Fork of GitHub Desktop to support various Linux distributions
