@@ -20,11 +20,11 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [SpaRcle-Studio/SRCommon](https://github.com/SpaRcle-Studio/SRCommon) - 
+- [SpaRcle-Studio/SRCommon](https://github.com/SpaRcle-Studio/SRCommon) - SpaRcle Studio&#39;s common library with utility classes and functions.
 - [SpaRcle-Studio/Innertia](https://github.com/SpaRcle-Studio/Innertia) - The Innertia Blockchain.
 - [SpaRcle-Studio/SREngine](https://github.com/SpaRcle-Studio/SREngine) - :zap: SpaRcle Engine - cross-platform 2D/3D game engine in C&#43;&#43;.
-- [SpaRcle-Studio/EvoVulkan](https://github.com/SpaRcle-Studio/EvoVulkan) - 
-- [SpaRcle-Studio/SpaRcle-Blog](https://github.com/SpaRcle-Studio/SpaRcle-Blog) - SpaRcle Studio dev blog website. 
+- [SpaRcle-Studio/EvoVulkan](https://github.com/SpaRcle-Studio/EvoVulkan) - SpaRcle Studio&#39;s high-level add-on to Vulkan.
+- [SpaRcle-Studio/SpaRcle-Blog](https://github.com/SpaRcle-Studio/SpaRcle-Blog) - SpaRcle Studio&#39;s dev blog website. 
 ### 🌱 My latest projects
 
 ### 🔨 My recent Pull Requests
