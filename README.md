@@ -36,8 +36,8 @@
 - [Merging dev.](https://github.com/SpaRcle-Studio/SREngine/pull/109) on [SpaRcle-Studio/SREngine](https://github.com/SpaRcle-Studio/SREngine)
 ### ⭐ Recent Stars
 
+- [qulop/RubyEngine](https://github.com/qulop/RubyEngine) - 📚Engine for visual novels
 - [sipa/bitcoin-seeder](https://github.com/sipa/bitcoin-seeder) - 
 - [SpaRcle-Studio/Innertia](https://github.com/SpaRcle-Studio/Innertia) - The Innertia Blockchain.
 - [tiltedphoques/TiltedEvolution](https://github.com/tiltedphoques/TiltedEvolution) - Skyrim and Fallout 4 mod to play online!
 - [veltman/clmystery](https://github.com/veltman/clmystery) - A command-line murder mystery
-- [shiftkey/desktop](https://github.com/shiftkey/desktop) - Fork of GitHub Desktop to support various Linux distributions
