@@ -20,20 +20,20 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [SpaRcle-Studio/SREngine](https://github.com/SpaRcle-Studio/SREngine) - :zap: SpaRcle Engine - cross-platform 2D/3D game engine in C&#43;&#43;.
 - [SpaRcle-Studio/SRCommon](https://github.com/SpaRcle-Studio/SRCommon) - SpaRcle Studio&#39;s common library with utility classes and functions.
 - [SpaRcle-Studio/SRRender](https://github.com/SpaRcle-Studio/SRRender) - SpaRcle Studio&#39;s graphics library with Vulkan and ImGUI.
 - [SpaRcle-Studio/SRDATemplate](https://github.com/SpaRcle-Studio/SRDATemplate) - SpaRcle Studio&#39;s template for desktop applications.
-- [SpaRcle-Studio/SREngine](https://github.com/SpaRcle-Studio/SREngine) - :zap: SpaRcle Engine - cross-platform 2D/3D game engine in C&#43;&#43;.
 - [SpaRcle-Studio/Innertia](https://github.com/SpaRcle-Studio/Innertia) - The Innertia Blockchain.
 ### 🌱 My latest projects
 
 ### 🔨 My recent Pull Requests
 
+- [Merge tmp/localization_merge](https://github.com/SpaRcle-Studio/SREngine/pull/129) on [SpaRcle-Studio/SREngine](https://github.com/SpaRcle-Studio/SREngine)
 - [Merge dev to features/localization_support](https://github.com/SpaRcle-Studio/SREngine/pull/128) on [SpaRcle-Studio/SREngine](https://github.com/SpaRcle-Studio/SREngine)
 - [Merge tmp/network_ping.](https://github.com/SpaRcle-Studio/SRCommon/pull/2) on [SpaRcle-Studio/SRCommon](https://github.com/SpaRcle-Studio/SRCommon)
 - [Merging master to the temporary branch.](https://github.com/SpaRcle-Studio/SRCommon/pull/1) on [SpaRcle-Studio/SRCommon](https://github.com/SpaRcle-Studio/SRCommon)
 - [(Docker) Added the docker file.](https://github.com/SpaRcle-Studio/SREngine/pull/124) on [SpaRcle-Studio/SREngine](https://github.com/SpaRcle-Studio/SREngine)
-- [Merge features/buttons.](https://github.com/SpaRcle-Studio/SREngine/pull/112) on [SpaRcle-Studio/SREngine](https://github.com/SpaRcle-Studio/SREngine)
 ### ⭐ Recent Stars
 
 - [SpaRcle-Studio/Cryptia](https://github.com/SpaRcle-Studio/Cryptia) - A standalone cryptographic library written in C&#43;&#43;.
