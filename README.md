@@ -29,11 +29,11 @@
 
 ### 🔨 My recent Pull Requests
 
+- [(Filesystem) Implemented ForEachInDirectory().](https://github.com/SpaRcle-Studio/SRCommon/pull/4) on [SpaRcle-Studio/SRCommon](https://github.com/SpaRcle-Studio/SRCommon)
 - [Merging dev into master.](https://github.com/SpaRcle-Studio/SRCommon/pull/3) on [SpaRcle-Studio/SRCommon](https://github.com/SpaRcle-Studio/SRCommon)
 - [Merge tmp/localization_merge](https://github.com/SpaRcle-Studio/SREngine/pull/129) on [SpaRcle-Studio/SREngine](https://github.com/SpaRcle-Studio/SREngine)
 - [Merge dev to features/localization_support](https://github.com/SpaRcle-Studio/SREngine/pull/128) on [SpaRcle-Studio/SREngine](https://github.com/SpaRcle-Studio/SREngine)
 - [Merge tmp/network_ping.](https://github.com/SpaRcle-Studio/SRCommon/pull/2) on [SpaRcle-Studio/SRCommon](https://github.com/SpaRcle-Studio/SRCommon)
-- [Merging master to the temporary branch.](https://github.com/SpaRcle-Studio/SRCommon/pull/1) on [SpaRcle-Studio/SRCommon](https://github.com/SpaRcle-Studio/SRCommon)
 ### ⭐ Recent Stars
 
 - [SpaRcle-Studio/Cryptia](https://github.com/SpaRcle-Studio/Cryptia) - A standalone cryptographic library written in C&#43;&#43;.
