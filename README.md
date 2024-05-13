@@ -29,11 +29,11 @@
 
 ### 🔨 My recent Pull Requests
 
+- [(Logs) Changed log format.](https://github.com/SpaRcle-Studio/EvoVulkan/pull/3) on [SpaRcle-Studio/EvoVulkan](https://github.com/SpaRcle-Studio/EvoVulkan)
 - [Merge tmp/x11_dev into dev.](https://github.com/SpaRcle-Studio/SREngine/pull/195) on [SpaRcle-Studio/SREngine](https://github.com/SpaRcle-Studio/SREngine)
 - [(Filesystem) Implemented ForEachInDirectory().](https://github.com/SpaRcle-Studio/SRCommon/pull/4) on [SpaRcle-Studio/SRCommon](https://github.com/SpaRcle-Studio/SRCommon)
 - [Merging dev into master.](https://github.com/SpaRcle-Studio/SRCommon/pull/3) on [SpaRcle-Studio/SRCommon](https://github.com/SpaRcle-Studio/SRCommon)
 - [Merge tmp/localization_merge](https://github.com/SpaRcle-Studio/SREngine/pull/129) on [SpaRcle-Studio/SREngine](https://github.com/SpaRcle-Studio/SREngine)
-- [Merge dev to features/localization_support](https://github.com/SpaRcle-Studio/SREngine/pull/128) on [SpaRcle-Studio/SREngine](https://github.com/SpaRcle-Studio/SREngine)
 ### ⭐ Recent Stars
 
 - [SpaRcle-Studio/Cryptia](https://github.com/SpaRcle-Studio/Cryptia) - A standalone cryptographic library written in C&#43;&#43;.
