@@ -40,4 +40,4 @@
 - [SpaRcle-Studio/Cryptia](https://github.com/SpaRcle-Studio/Cryptia) - A standalone cryptographic library written in C&#43;&#43;.
 - [SpaRcle-Studio/SRCommon](https://github.com/SpaRcle-Studio/SRCommon) - SpaRcle Studio&#39;s common library with utility classes and functions.
 - [SpaRcle-Studio/SRRender](https://github.com/SpaRcle-Studio/SRRender) - SpaRcle Studio&#39;s graphics library with Vulkan and ImGUI.
-- [qulop/RubyEngine](https://github.com/qulop/RubyEngine) - 📚Engine for visual novels
+- [sipa/bitcoin-seeder](https://github.com/sipa/bitcoin-seeder) - 
