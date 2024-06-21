@@ -24,7 +24,7 @@
 - [SpaRcle-Studio/SRRender](https://github.com/SpaRcle-Studio/SRRender) - SpaRcle Studio&#39;s graphics library with Vulkan and ImGUI.
 - [SpaRcle-Studio/SRCommon](https://github.com/SpaRcle-Studio/SRCommon) - SpaRcle Studio&#39;s common library with utility classes and functions.
 - [SpaRcle-Studio/Overseer](https://github.com/SpaRcle-Studio/Overseer) - Bot for SpaRcle Studio Discord Server.
-- [SpaRcle-Studio/EvoScript](https://github.com/SpaRcle-Studio/EvoScript) - 
+- [SpaRcle-Studio/EvoScript](https://github.com/SpaRcle-Studio/EvoScript) - SpaRcle Studio&#39;s Scripting System.
 ### 🌱 My latest projects
 
 ### 🔨 My recent Pull Requests
