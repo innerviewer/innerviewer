@@ -36,8 +36,8 @@
 - [Merge tmp/x11_dev into dev.](https://github.com/SpaRcle-Studio/SREngine/pull/195) on [SpaRcle-Studio/SREngine](https://github.com/SpaRcle-Studio/SREngine)
 ### ⭐ Recent Stars
 
+- [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 - [hydralauncher/hydra](https://github.com/hydralauncher/hydra) - Hydra is a game launcher with its own embedded bittorrent client and a self-managed repack scraper.
 - [actionforge/vscode-ext](https://github.com/actionforge/vscode-ext) - ♾️ VS Code Extension for Actionforge
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
 - [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga) - Information gathering framework for phone numbers
-- [alpkeskin/mosint](https://github.com/alpkeskin/mosint) - An automated e-mail OSINT tool
