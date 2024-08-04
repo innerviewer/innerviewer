@@ -24,4 +24,4 @@
 - [SpaRcle-Studio/SRRender](https://github.com/SpaRcle-Studio/SRRender) - SpaRcle Studio&#39;s graphics library with Vulkan and ImGUI.
 - [SpaRcle-Studio/SREngine](https://github.com/SpaRcle-Studio/SREngine) - :zap: SpaRcle Engine - cross-platform 2D/3D game engine in C&#43;&#43;.
 - [SpaRcle-Studio/sparcles](https://github.com/SpaRcle-Studio/sparcles) - SpaRcle Studio&#39;s main site.
-- [SpaRcle-Studio/Overseer](https://github.com/SpaRcle-Studio/Overseer) - Bot for SpaRcle Studio Discord Server.
+- [SpaRcle-Studio/Overseer](https://github.com/SpaRcle-Studio/Overseer) - SpaRcle Studio&#39;s Discord server bot.
