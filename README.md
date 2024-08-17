@@ -20,8 +20,8 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [SpaRcle-Studio/SREngine](https://github.com/SpaRcle-Studio/SREngine) - :zap: SpaRcle Engine - cross-platform 2D/3D game engine in C&#43;&#43;.
 - [SpaRcle-Studio/sparcles](https://github.com/SpaRcle-Studio/sparcles) - SpaRcle Studio&#39;s main site.
+- [SpaRcle-Studio/SREngine](https://github.com/SpaRcle-Studio/SREngine) - :zap: SpaRcle Engine - cross-platform 2D/3D game engine in C&#43;&#43;.
 - [innerviewer/innersite](https://github.com/innerviewer/innersite) - InnerVision blog.
 - [SpaRcle-Studio/SRRender](https://github.com/SpaRcle-Studio/SRRender) - SpaRcle Studio&#39;s graphics library with Vulkan and ImGUI.
 - [SpaRcle-Studio/SRCommon](https://github.com/SpaRcle-Studio/SRCommon) - SpaRcle Studio&#39;s common library with utility classes and functions.
