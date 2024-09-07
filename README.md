@@ -37,8 +37,8 @@
 - [(Math) Minor changes to Mathemathics.h.](https://github.com/SpaRcle-Studio/SRCommon/pull/9) on [SpaRcle-Studio/SRCommon](https://github.com/SpaRcle-Studio/SRCommon)
 ### ⭐ Recent Stars
 
+- [hexops/mach](https://github.com/hexops/mach) - zig game engine &amp; graphics toolkit
+- [slimsag/mach-glfw](https://github.com/slimsag/mach-glfw) - Ziggified GLFW bindings with 100% API coverage, zero-fuss installation, cross compilation, and more.
 - [Jollu8/C-INTERVIEW-QUESTIONS](https://github.com/Jollu8/C-INTERVIEW-QUESTIONS) - ВОПРОСЫ НА СОБЕСЕДОВАНИИ ПО С&#43;&#43;
 - [autonomouslogic/eve-ref](https://github.com/autonomouslogic/eve-ref) - EVE Ref
 - [os-js/OS.js](https://github.com/os-js/OS.js) - OS.js - JavaScript Web Desktop Platform
-- [qemu/qemu](https://github.com/qemu/qemu) - Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website.
-- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
