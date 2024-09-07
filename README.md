@@ -25,3 +25,20 @@
 - [SpaRcle-Studio/SREngine](https://github.com/SpaRcle-Studio/SREngine) - :zap: SpaRcle Engine - cross-platform 2D/3D game engine in C&#43;&#43;.
 - [SpaRcle-Studio/SRRender](https://github.com/SpaRcle-Studio/SRRender) - SpaRcle Studio&#39;s graphics library with Vulkan and ImGUI.
 - [SpaRcle-Studio/SRCommon](https://github.com/SpaRcle-Studio/SRCommon) - SpaRcle Studio&#39;s common library with utility classes and functions.
+### 🌱 My latest projects
+
+- [innerviewer/innersite](https://github.com/innerviewer/innersite) - InnerVision blog.
+### 🔨 My recent Pull Requests
+
+- [(Guards) Renamed the most of old include guards.](https://github.com/SpaRcle-Studio/SREngine/pull/276) on [SpaRcle-Studio/SREngine](https://github.com/SpaRcle-Studio/SREngine)
+- [(Guards) Renamed the most of old include guards.](https://github.com/SpaRcle-Studio/EvoScript/pull/2) on [SpaRcle-Studio/EvoScript](https://github.com/SpaRcle-Studio/EvoScript)
+- [(Guards) Renamed the most of old include guards.](https://github.com/SpaRcle-Studio/SRRender/pull/3) on [SpaRcle-Studio/SRRender](https://github.com/SpaRcle-Studio/SRRender)
+- [(Guards) Renamed the most of old include guards.](https://github.com/SpaRcle-Studio/EvoVulkan/pull/4) on [SpaRcle-Studio/EvoVulkan](https://github.com/SpaRcle-Studio/EvoVulkan)
+- [(Math) Minor changes to Mathemathics.h.](https://github.com/SpaRcle-Studio/SRCommon/pull/9) on [SpaRcle-Studio/SRCommon](https://github.com/SpaRcle-Studio/SRCommon)
+### ⭐ Recent Stars
+
+- [Jollu8/C-INTERVIEW-QUESTIONS](https://github.com/Jollu8/C-INTERVIEW-QUESTIONS) - ВОПРОСЫ НА СОБЕСЕДОВАНИИ ПО С&#43;&#43;
+- [autonomouslogic/eve-ref](https://github.com/autonomouslogic/eve-ref) - EVE Ref
+- [os-js/OS.js](https://github.com/os-js/OS.js) - OS.js - JavaScript Web Desktop Platform
+- [qemu/qemu](https://github.com/qemu/qemu) - Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website.
+- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
