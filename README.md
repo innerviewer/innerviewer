@@ -19,14 +19,11 @@
 </div>
 
 ### 👷 Check out what I'm currently working on
+- Private repos. 🙂
 
-- Private repos. 🙂
 - [innerviewer/innersite](https://github.com/innerviewer/innersite) - InnerVision blog.
-- Private repos. 🙂
 - [SpaRcle-Studio/sparcles](https://github.com/SpaRcle-Studio/sparcles) - SpaRcle Studio&#39;s main site.
-- Private repos. 🙂
 - [SpaRcle-Studio/SREngine](https://github.com/SpaRcle-Studio/SREngine) - :zap: SpaRcle Engine - cross-platform 2D/3D game engine in C&#43;&#43;.
-- Private repos. 🙂
 - [SpaRcle-Studio/SRRender](https://github.com/SpaRcle-Studio/SRRender) - SpaRcle Studio&#39;s graphics library with Vulkan and ImGUI.
 ### 🌱 My latest projects
 - Private repos. 🙂
