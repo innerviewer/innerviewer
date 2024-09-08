@@ -19,11 +19,13 @@
 </div>
 
 ### 👷 Check out what I'm currently working on
-{{ range recentContributions 5 }}
+{{ range recentContributions 4 }}
+- Private repos. 🙂
 - [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
 {{- end }}
 ### 🌱 My latest projects
-{{ range recentRepos 5 }}
+- Private repos. 🙂
+{{ range recentRepos 4 }}
 - [{{ .Name }}]({{ .URL }}) - {{ .Description }}
 {{- end }}
 ### 🔨 My recent Pull Requests
