@@ -41,4 +41,4 @@
 - [HellSoftware/hellwm](https://github.com/HellSoftware/hellwm) - The HellWM is this ?
 - [hexops/mach](https://github.com/hexops/mach) - zig game engine &amp; graphics toolkit
 - [slimsag/mach-glfw](https://github.com/slimsag/mach-glfw) - Ziggified GLFW bindings with 100% API coverage, zero-fuss installation, cross compilation, and more.
-- [Jollu8/C-INTERVIEW-QUESTIONS](https://github.com/Jollu8/C-INTERVIEW-QUESTIONS) - ВОПРОСЫ НА СОБЕСЕДОВАНИИ ПО С&#43;&#43;
+- [autonomouslogic/eve-ref](https://github.com/autonomouslogic/eve-ref) - EVE Ref
