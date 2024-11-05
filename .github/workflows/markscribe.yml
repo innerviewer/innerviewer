@@ -3,9 +3,9 @@ name: markscribe
 on:
   push: 
     branches:
-      - main
-  schedule:
-    - cron: "*/15 * * * *"
+      - disabled
+#  schedule:
+#    - cron: "*/15 * * * *"
 
 jobs:
   markscribe:
