@@ -8,6 +8,7 @@
 </div>
 
 
+<div align="center"><b>This week's coding stats.</b>
 <!--START_SECTION:waka-->
 
 ```txt
@@ -19,4 +20,4 @@ jsonc      0 secs          ░░░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-
+</div>
