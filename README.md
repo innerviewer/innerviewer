@@ -12,10 +12,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Rust     41 mins         ███████████████████████▓░   95.16 %
-Python   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
-TOML     0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
-jsonc    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
