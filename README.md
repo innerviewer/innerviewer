@@ -12,7 +12,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Astro    2 mins          ████████████████████████▓   98.43 %
+Python   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+HTML     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
 ```
 
 <!--END_SECTION:waka-->
