@@ -6,14 +6,3 @@
     <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=innerviewer&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&show_icons=true&count_private=true&hide_border=true&title_color=0080FF&icon_color=ffffff&text_color=c9d1d9&bg_color=0d1117" style="height: auto;" />
   </div>
 </div>
-
-
-<div align="center"><b>This week's coding stats.</b>
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-</div>
